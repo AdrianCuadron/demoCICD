@@ -9,4 +9,4 @@ jobs:
       - name: Bajar codigo
         uses: actions/checkout@v4
       - name: Probar codigo
-        run: python3 amin.py
+        run: python3 main.py
